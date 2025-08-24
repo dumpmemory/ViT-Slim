@@ -71,13 +71,11 @@ python evolution.py
 
 If you find our project is helpful, please feel free to leave a star and cite our paper:
 ```BibTeX
-@misc{chavan2023oneforall,
-      title={One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning}, 
-      author={Arnav Chavan and Zhuang Liu and Deepak Gupta and Eric Xing and Zhiqiang Shen},
-      year={2023},
-      eprint={2306.07967},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{chavan2023one,
+  title={One-for-all: Generalized lora for parameter-efficient fine-tuning},
+  author={Chavan, Arnav and Liu, Zhuang and Gupta, Deepak and Xing, Eric and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2306.07967},
+  year={2023}
 }
 ```
     
